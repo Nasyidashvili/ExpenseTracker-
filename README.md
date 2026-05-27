@@ -25,10 +25,15 @@ Installation
 Usage 
 
 dotnet run add --description "Lunch" --amount 15 --category Food
+
 dotnet run list
+
 dotnet run update --id 1 --amount 20
+
 dotnet run delete --id 1
+
 dotnet run summary
+
 dotnet run summary --month 5
 
 
