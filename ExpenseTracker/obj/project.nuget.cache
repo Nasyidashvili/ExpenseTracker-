@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HEd44h3dNSg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.commandline\\3.0.0-preview.4.26230.115\\system.commandline.3.0.0-preview.4.26230.115.nupkg.sha512"
+  ],
+  "logs": []
+}
